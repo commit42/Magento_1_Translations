@@ -6,5 +6,9 @@
       "email": "maher@commit42.fr"
     }
   ],
-  "require": {}
+  "require": {},
+  "type": "magento-module",
+  "extra": {
+    "magento-root-dir": "root"
+  }
 }
