@@ -1,0 +1,10 @@
+{
+  "name": "commit42/Magento_1_Translations",
+  "authors": [
+    {
+      "name": "Maher Isnard",
+      "email": "maher@commit42.fr"
+    }
+  ],
+  "require": {}
+}
