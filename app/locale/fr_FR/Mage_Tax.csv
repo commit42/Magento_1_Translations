@@ -153,7 +153,7 @@
 "When catalog price includes tax, enable this setting will fix the price no matter what the customer's tax rate is.","Lorsque le prix catalogue inclut les taxes, l'activation de ce paramètre établira le prix quel que soit le taux de taxe du client."
 "Whether catalog prices entered by admin include tax.","Si les prix du catalogue ajoutés par l'admin comprennent les taxes."
 "Whether shipping amounts entered by admin or obtained from gateways include tax.","Si les montants d'expédition ajoutés par l'admin ou obtenus par les passerelles comprennent les taxes."
-"Yes","oui"
+"Yes","Oui"
 "You cannot delete this tax class as it is used for %d customer groups.","Vous ne pouvez pas supprimer cette catégorie de taxe car elle est utilisée par %d groupes de clients."
 "You cannot delete this tax class as it is used for %d products.","Vous ne pouvez pas supprimer cette catégorie de taxe car elle est utilisée par %d produits."
 "You cannot delete this tax class as it is used in Tax Rules. You have to delete the rules it is used in first.","Vous ne pouvez pas supprimer cette taxe car elle est utilisée par une ou plusieurs règle(s). Vous devez d'abord supprimer la ou les règle(s) dans la(les)quelle(s) elle figure."

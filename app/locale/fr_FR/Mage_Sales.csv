@@ -860,7 +860,7 @@
 "Wrong billing agreement ID specified.","Mauvais identifiant des accords de facturation spécifié."
 "Wrong quote item id to update configuration.","L'identification du produit sélectionné est incorrecte et la configuration ne peut pas être mise à jour."
 "Wrong state: ""%s"".","État incorrect : ""%s""."
-"Yes","oui"
+"Yes","Oui"
 "You can leave a box blank if you don\'t wish to add a gift message for whole order","Vous pouvez laisser une case vide si vous ne voulez pas ajouter un message de cadeau pour l'ensemble de la commande"
 "You don\'t have permissions to manage this order because of one or more products are not permitted for your website.","Vous n'avez pas les permissions de gérer cette commande parce que un produit ou plus ne sont pas autorisés pour votre site web."
 "You have placed no orders.","Vous n'avez pas de commande."
